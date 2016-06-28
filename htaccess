@@ -1,4 +1,4 @@
 AuthType Basic  
 AuthName "When is our Anniversary? In the format of MM-DD"  
-AuthUserFile /xiaofuh/xiaofuh.github.io  
+AuthUserFile /xiaofuh/xiaofuh.github.io/.htpasswd 
 require valid-user
